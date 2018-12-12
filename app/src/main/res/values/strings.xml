@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rugby</string>
+    <string name="team_one_name">Team One</string>
+    <string name="team_two_name">Team Two</string>
+    <string name="add_try">Try</string>
+    <string name="add_conversion_kick">Conversion Kick</string>
+    <string name="add_penalty">Penalty</string>
+    <string name="reset">Reset</string>
+</resources>
